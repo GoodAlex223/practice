@@ -1,6 +1,6 @@
-E'...' - Project Euler (https://projecteuler.net/archives)
+E'...' - <a href="https://projecteuler.net/archives">Project Euler</a>
 
-kP'...' - Mega Project List (https://github.com/karan/Projects)
+kP'...' - <a href="https://github.com/karan/Projects">Mega Project List</a>
 
 This repository contains all my solutions to different problems, tasks, 
 as well as interesting and more effective solutions of other people, which I could find on the Internet
